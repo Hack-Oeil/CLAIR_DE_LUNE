@@ -18,7 +18,7 @@ L'algorithme de Luhn peut valider la cohérence des numéros de SIREN et de cart
 Vous n'utilisez pas l'application **les CTFs de Cyrhades** ? C'est dommage !
 Mais voici comment installer ce CTF manuellement :
 
-> git clone https://github.com/Hack-Oeil/CLAIRE_DE_LUNE.git
+> git clone https://github.com/Hack-Oeil/CLAIR_DE_LUNE.git
 
-> cd CLAIRE_DE_LUNE && docker compose up
+> cd CLAIR_DE_LUNE && docker compose up
 
